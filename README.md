@@ -150,11 +150,11 @@ int main()
 
 ## OUTPUT
 
-![expt 6 1](https://github.com/KrishnaPrasad148/Linux-IPC-Shared-memory/assets/147332763/0fe55709-27c1-499a-80cf-64152ba8097d)
+![alt text](<expt 6 1.png>)
 
-![expt 6 2](https://github.com/KrishnaPrasad148/Linux-IPC-Shared-memory/assets/147332763/6e32d87c-5ca1-44e1-9091-282421fe2848)
+![alt text](<expt 6 2.png>)
 
-![expt 6 3](https://github.com/KrishnaPrasad148/Linux-IPC-Shared-memory/assets/147332763/b597ef2c-2856-473e-9ad4-26d782896b48)
+![alt text](<expt 6 3.png>)
 
 
 # RESULT:
